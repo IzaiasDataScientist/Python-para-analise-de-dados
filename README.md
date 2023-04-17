@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:30ca6974391198588ce245e8926c75ae1e0dfbffed9720cfc3761575daf2eb63
-size 184
+Estudo de Análise de Dados com Python, usando o livro Python para Análise de Dados, tratamento de Dados com pandas, numpy e ipython, do Wes McKinney.
